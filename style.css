@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pixelated-cartoon-autumn-plant-background-design-backgroundillustration-backgroundadvertising-backgroundbackground-image_65091.jpg");
+    background:aqua;
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     font-size:20px;
@@ -9,7 +9,7 @@ body {
 }
 center {
     font:  80px/500px Impact, Charcoal, sans-serif;
-    color:yellow;
+    color:white;
 
   }
 
