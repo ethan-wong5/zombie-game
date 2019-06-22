@@ -1,6 +1,6 @@
 
 body {
-    background:blue;
+    background:wheat;
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     font-size:20px;
@@ -12,5 +12,7 @@ center {
     color:white;
 
   }
+button { width: 100px; height: 50px;}
 
+ 
   

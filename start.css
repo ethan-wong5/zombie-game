@@ -1,0 +1,27 @@
+body {
+    font-size:150px;
+
+}
+
+Button{
+    Display: block;
+     margin-left: auto;
+     margin-right: auto;}
+
+     button { width: 200px; height: 100px;}
+      {
+        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+        color: transparent;
+      }
+
+      .rainbow-text {
+        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+      }
+      .rainbow-text {
+        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+        -webkit-background-clip: text;
+      }
+      .rainbow-text {
+        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+        color: transparent;
+      }
